@@ -1,0 +1,37 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "createTime": "2023-12-18T11:09:30.000+00:00",
+            "updateTime": null,
+            "page": 1,
+            "size": 5,
+            "id": 1,
+            "username": "王大锤",
+            "identity": 2,
+            "status": 1
+        },
+        {
+            "createTime": "2023-12-18T11:09:30.000+00:00",
+            "updateTime": null,
+            "page": 1,
+            "size": 5,
+            "id": 1,
+            "username": "BT7274",
+            "identity": 2,
+            "status": 1
+        },
+        {
+            "createTime": "2023-12-18T11:09:30.000+00:00",
+            "updateTime": null,
+            "page": 1,
+            "size": 5,
+            "id": 1,
+            "username": "铁驭",
+            "identity": 2,
+            "status": 1
+        }
+    ],
+    "message": "操作成功",
+    "timestamp": 1703731086434
+}

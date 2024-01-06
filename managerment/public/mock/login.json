@@ -1,0 +1,9 @@
+{
+    "code": 200,
+    "message": "public/login.json",
+    "data": {
+        "id":"dasdasf",
+        "username":"admin",
+        "name":"王大锤"
+    }
+}
